@@ -38,4 +38,8 @@ Aluno **matricula-se** em Curso
 Tipo: N:N (um aluno pode cursar vários cursos, e um curso pode ter vários alunos)
 
 ## 📊 Diagrama MER (Descrição)
-
+```
+[Aluno]---< Matricula >---[Curso]
+```
+## 💡 Dica
+No caso de relacionamentos N:N, cria-se uma **entidade associativa** (ex: Matricula).
