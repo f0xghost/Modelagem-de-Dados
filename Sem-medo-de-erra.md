@@ -83,9 +83,6 @@ Serve pra **padronizar** e **facilitar a manutenção**.
 Modelagem de Dados é a base pra qualquer sistema bem estruturado.  
 Dominar os modelos (Conceitual → Lógico → Físico) e aplicar normalização é o que **separa um bom desenvolvedor de um verdadeiro analista de sistemas**. 🚀  
 
-
-# 📘 README — Modelagem de Dados
-
 A matéria de **Modelagem de Dados** é fundamental para quem deseja atuar como **analista de sistemas**, pois ensina a planejar e construir **bancos de dados estruturados, seguros e eficientes**.  
 
 O **SGBD (Sistema Gerenciador de Banco de Dados)** é responsável por armazenar, gerenciar e proteger as informações, seguindo os princípios **ACID** — **Atomicidade, Consistência, Isolamento e Durabilidade** — que garantem a integridade das transações. Entre os principais SGBDs estão **Oracle**, **SQL Server**, **MySQL** e **PostgreSQL**.  
